@@ -1,4 +1,4 @@
-h3 align="center">A computer science student passionate about AI/software dev from India</h3>
+>A computer science student passionate about AI/software dev from India</h3>
 
 <img align="right" alt="coding" width="400" src=https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif>
 
