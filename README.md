@@ -1,4 +1,14 @@
->A computer science student passionate about AI/software dev from India</h3>
+
+**PIYUSH-NEXTGEN/PIYUSH-NEXTGEN**  ✨ 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...Some projects and making games
+- 🌱 I’m currently learning ...Python and DSA
+- 💬 Ask me about ... A Undergrad CS student from India , passionate about coding related stuff .
+- 📫 How to reach me: ...http://www.linkedin.com/in/piyush-baraskar-994ab6337
+-->
+>**A computer science student passionate about AI/software dev from India**</h3>
 
 <img align="right" alt="coding" width="400" src=https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif>
 
@@ -19,17 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&" alt="piyush-nextgen" /></p>
 
 
-<!--
-**PIYUSH-NEXTGEN/PIYUSH-NEXTGEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
