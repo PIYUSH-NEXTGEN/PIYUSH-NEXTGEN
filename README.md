@@ -29,6 +29,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -40,16 +43,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on some projects and making games
-- 🌱 I’m currently learning Python and DSA
-- 💬 Ask me about: Coding, projects, and being a CS student in India
+- 🔭 I’m currently working on some projects and making games  
+- 🌱 I’m currently learning Python and DSA  
+- 💬 Ask me about: Coding, projects, and being a CS student in India  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
+
+
+
 
 
 
