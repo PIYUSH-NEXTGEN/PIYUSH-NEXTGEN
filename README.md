@@ -30,7 +30,6 @@
 | Version Control   | Git, GitHub                                    |
 | Community         | Stack Overflow, Discord                        |
 | CS Fundamentals   | OOP, Data Structures *(learning)*              |
-| Web Basics        | HTML, CSS *(to be learned for backend)*        |
 | Future Stack      | Flask, NumPy, Pandas *(on your roadmap)*       |
 
 ---
@@ -42,4 +41,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on some projects and making games  
+- 🌱 I’m currently learning Python and DSA  
+- 💬 Ask me about: Coding, projects, and being a CS student in India  
+- 📫 Reach me via [LinkedIn](
