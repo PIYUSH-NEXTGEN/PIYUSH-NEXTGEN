@@ -1,10 +1,15 @@
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
-<h3 align="center">A computer science student passionate about AI/software dev from India </h3>
+<h3 align="center">A computer science student passionate about AI/software dev from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
 
 <p align="left">
+  <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
+  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Code-Python-blue.svg" />
+  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20PyCharm-informational" />
 </p>
 
 ---
@@ -53,3 +58,10 @@
 - 🌱 I’m currently learning Python and DSA  
 - 💬 Ask me about: Coding, projects, and being a CS student in India  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
+
+---
+
+### 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" alt="Activity Graph" />
+</p>
