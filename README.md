@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
   <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Code-Python-blue.svg" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20PyCharm-informational" />
 </p>
 
 ---
@@ -23,21 +21,14 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
-  </a>
-</p>
+### 🛠️ Technical Skills
+
+| Category        | Tools/Technologies                  |
+|----------------|-------------------------------------|
+| Programming     | C++, Python                         |
+| Tools & IDEs    | VS Code, PyCharm                    |
+| Version Control | Git, GitHub                         |
+| Community       | Stack Overflow                     |
 
 ---
 
