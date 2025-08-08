@@ -23,12 +23,15 @@
 
 ### 🛠️ Technical Skills
 
-| Category        | Tools/Technologies                  |
-|----------------|-------------------------------------|
-| Programming     | C++, Python                         |
-| Tools & IDEs    | VS Code, PyCharm                    |
-| Version Control | Git, GitHub                         |
-| Community       | Stack Overflow                     |
+| Category         | Tools/Technologies                             |
+|------------------|------------------------------------------------|
+| Programming       | C++, Python *(learning DSA)*                   |
+| Tools & IDEs      | VS Code, PyCharm                               |
+| Version Control   | Git, GitHub                                    |
+| Community         | Stack Overflow, Discord                        |
+| CS Fundamentals   | OOP, Data Structures *(learning)*              |
+| Web Basics        | HTML, CSS *(to be learned for backend)*        |
+| Future Stack      | Flask, NumPy, Pandas *(on your roadmap)*       |
 
 ---
 
@@ -39,20 +42,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on some projects and making games  
-- 🌱 I’m currently learning Python and DSA  
-- 💬 Ask me about: Coding, projects, and being a CS student in India  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
-
----
-
-### 📈 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" alt="Activity Graph" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp
