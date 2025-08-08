@@ -23,14 +23,14 @@
 
 ### 🛠️ Technical Skills
 
-| Category             | Tools/Technologies                                                                     |
-|----------------------|----------------------------------------------------------------------------------------|
-| Programming          | C++, Python *(learning DSA)*                                                           |
-| Tools & IDEs         | VS Code, PyCharm                                                                       |
-| Version Control      | Git, GitHub                                                                            |
-| Community            | Stack Overflow, LeetCode                                                               |
-| CS Fundamentals      | OOP, Data Structures *(learning)*                                                      |
-| Future Stack (AI/ML) | Flask, NumPy, Pandas, **Scikit-learn**, **Matplotlib**, **TensorFlow** *(planned)*     |
+| Category             | Tools/Technologies                                                            |
+|----------------------|-------------------------------------------------------------------------------|
+| Programming          | C++, Python *(learning DSA)*                                                  |
+| Tools & IDEs         | VS Code, PyCharm                                                              |
+| Version Control      | Git, GitHub                                                                   |
+| Community            | Stack Overflow, Discord, LeetCode                                             |
+| CS Fundamentals      | OOP, Data Structures *(learning)*                                             |
+| Future Stack (AI/ML) | Flask, NumPy, Pandas, TensorFlow *(planned)*                                  |
 
 ---
 
