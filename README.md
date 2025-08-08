@@ -17,23 +17,20 @@
   <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge" alt="Discord" />
-  </a>
 </p>
 
 ---
 
 ### 🛠️ Technical Skills
 
-| Category         | Tools/Technologies                                                 |
-|------------------|--------------------------------------------------------------------|
-| Programming       | C++, Python *(learning DSA)*                                       |
-| Tools & IDEs      | VS Code, PyCharm                                                   |
-| Version Control   | Git, GitHub                                                        |
-| Community         | Stack Overflow, Discord                                            |
-| CS Fundamentals   | OOP, Data Structures *(learning)*                                  |
-| Future Stack (AI/ML) | Flask, NumPy, Pandas, **Scikit-learn**, **Matplotlib**, **TensorFlow** *(planned)* |
+| Category             | Tools/Technologies                                                                     |
+|----------------------|----------------------------------------------------------------------------------------|
+| Programming          | C++, Python *(learning DSA)*                                                           |
+| Tools & IDEs         | VS Code, PyCharm                                                                       |
+| Version Control      | Git, GitHub                                                                            |
+| Community            | Stack Overflow, LeetCode                                                               |
+| CS Fundamentals      | OOP, Data Structures *(learning)*                                                      |
+| Future Stack (AI/ML) | Flask, NumPy, Pandas, **Scikit-learn**, **Matplotlib**, **TensorFlow** *(planned)*     |
 
 ---
 
