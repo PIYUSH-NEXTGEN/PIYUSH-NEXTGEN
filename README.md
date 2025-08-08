@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
-<h3 align="center">A computer science student passionate about AI/software dev from India</h3>
+<h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
 
@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&style=for-the-badge" alt="Discord" />
+  </a>
 </p>
 
 ---
@@ -30,7 +33,7 @@
 | Version Control   | Git, GitHub                                                        |
 | Community         | Stack Overflow, Discord                                            |
 | CS Fundamentals   | OOP, Data Structures *(learning)*                                  |
-| Future Stack      | Flask, NumPy, Pandas, **Scikit-learn**, **Matplotlib**, **TensorFlow** *(planned)* |
+| Future Stack (AI/ML) | Flask, NumPy, Pandas, **Scikit-learn**, **Matplotlib**, **TensorFlow** *(planned)* |
 
 ---
 
@@ -48,9 +51,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on some projects and making games  
-- 🌱 I’m currently learning Python and DSA  
-- 🤖 Exploring AI/ML and aiming to build smart systems  
-- 💬 Ask me about: Coding, projects, and being a CS student in India  
+- 🌱 I’m currently learning Python, DSA & fundamentals of AI/ML  
+- 🤖 My goal is to build smart, AI-powered systems  
+- 💬 Ask me about: Coding, projects, or being a CS student in India  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
 
 ---
