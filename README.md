@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -53,9 +53,3 @@
 - 🌱 I’m currently learning Python and DSA  
 - 💬 Ask me about: Coding, projects, and being a CS student in India  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
-
-
-
-
-
-
