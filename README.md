@@ -77,11 +77,7 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on some projects and making games  
-- 🌱 I’m currently learning Python, DSA & fundamentals of AI/ML  
-- 🤖 My goal is to build smart, AI-powered systems  
-- 💬 Ask me about: Coding, projects, or being a CS student in India  
+ 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
 
 ---
