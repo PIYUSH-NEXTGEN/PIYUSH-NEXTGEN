@@ -28,7 +28,7 @@
 | Programming          | C++, Python *(learning DSA)*                                                  |
 | Tools & IDEs         | VS Code, PyCharm                                                              |
 | Version Control      | Git, GitHub                                                                   |
-| Community            | Stack Overflow, Discord, LeetCode                                             |
+| Community            | Stack Overflow, Geeksforgeeks Discord, LeetCode                                             |
 | CS Fundamentals      | OOP, Data Structures *(learning)*                                             |
 | Future Stack (AI/ML) | Flask, NumPy, Pandas, TensorFlow *(planned)*                                  |
 
