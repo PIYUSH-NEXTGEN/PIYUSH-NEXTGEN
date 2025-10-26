@@ -214,7 +214,7 @@
 
         th {
             color: #58a6ff;
-            font-weight: 600;
+            font-weight: 601;
         }
 
         tr {
