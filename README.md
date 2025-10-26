@@ -1,47 +1,5 @@
 
 
-<h2 align="center">👋 Hey there! I'm Piyush</h2> <h3 align="center">A computer science student passionate about AI/ML & software development from India</h3> <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" /> <p align="left
-
-pasted
-
-This is my readme code of GitHub can you add some  animations in this leaves dropping or anything you like
-
-I'll create an enhanced version of your README with smooth, professional animations. I'm adding falling code symbols (instead of leaves, which fits your tech profile better), typing animations, and subtle hover effects that'll make your profile stand out.
-
-Animated GitHub README
-Interactive artifact 
-What I've added:
-
-Visual Effects:
-
-Falling code particles - Braces, operators, and binary digits continuously fall from the top, creating a Matrix-style coding rain effect that's subtle and professional
-Waving hand emoji - The 👋 actually waves at visitors
-Typing animation - Your subtitle types itself out repeatedly with a blinking cursor
-Floating profile image - Your coding GIF gently bobs up and down
-Hover Interactions:
-
-All sections lift up slightly when you hover over them with a glowing blue border
-Tech stack badges scale up and rotate with a glow effect
-GitHub stats cards zoom in smoothly
-The LinkedIn button pulses continuously and gets brighter on hover
-Modern Design Elements:
-
-Glassmorphism effect on sections (semi-transparent with blur)
-Gradient text for your name
-Animated underlines that expand on hover
-Staggered pop-in animation for tech badges
-Table rows highlight on hover
-Performance Optimized:
-
-Particles are automatically removed after falling
-Uses CSS transforms (GPU-accelerated) instead of position changes
-Lightweight particle system that won't lag
-To use this on GitHub: Unfortunately, GitHub README files only support basic Markdown - they strip out JavaScript and most CSS for security. So you'll need to convert this to the actual markdown format, but you can use this animated preview to show people what your profile could look like, or use it on a personal website.
-
-Summary: I've transformed your static README into an interactive experience with falling code symbols, smooth hover effects, and professional animations that match your tech aesthetic. The design maintains readability while adding visual interest that makes visitors want to explore your profile.
-
-Don't change the previous code 
-Just add animations only
 
 
 
