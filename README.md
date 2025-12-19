@@ -89,4 +89,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" alt="Activity Graph" />
 </p>
-<img align="right" alt="coding" width="600" src="luffy.gif" />
+<img align="center" alt="coding" width="500" src="luffy.gif" />
