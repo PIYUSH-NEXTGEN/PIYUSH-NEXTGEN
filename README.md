@@ -1,5 +1,7 @@
-<img align="right" alt="coding" width="600" src="byakuya kuchiki.gif" />
+<img align="center" alt="coding" width="500" src="byakuya kuchiki.gif" />
 </div>
+
+
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
 <h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
 
