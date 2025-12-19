@@ -77,7 +77,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
 </p>
 
-<img align="right" alt="coding" width="200" src="luffy.gif" />
+
 ---
 
 
@@ -89,3 +89,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" alt="Activity Graph" />
 </p>
+<img align="right" alt="coding" width="600" src="luffy.gif" />
