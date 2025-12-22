@@ -1,122 +1,101 @@
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗                            ║
-║   ██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║                            ║
-║   ██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║                            ║
-║   ██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║                            ║
-║   ██║     ██║   ██║   ╚██████╔╝███████║██║  ██║                            ║
-║   ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝                            ║
-║                                                                              ║
-║                    CS Student | Code Warrior | Bug Hunter                   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
- <div align="center">
-  
-# 👋 Hey, I'm Piyush Baraskar
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8AFF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Python+Enthusiast;Building+ML+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img align="center" alt="coding" width="500" src="byakuya kuchiki.gif" />
 </div>
 
----
 
-## 🚀 About Me
+<h2 align="center">👋 Hey there! I'm Piyush</h2>
+<h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
 
-🎓 **Computer Science Student** diving deep into Machine Learning and Software Development  
-💻 Currently building projects in **Python** and **C++**  
-🔭 Exploring **ML, Data Analysis, and System Programming**  
-🌱 Learning by building real projects, not just tutorials  
-📫 Let's connect: **[LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)**
 
----
 
-## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp" alt="Python, C++" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,git" alt="VS Code, GitHub, PyCharm, Git" />
-
-### Currently Learning
-<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-**Machine Learning** • **Data Science** • **Algorithm Design**
-
-</div>
+<p align="left">
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
+  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=piyushbaraskar&color=3F8AFF&style=flat-square&label=Profile+Views)
-![Stars](https://img.shields.io/badge/Total%20Stars-32-yellow?style=flat-square)
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushbaraskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushbaraskar&theme=tokyonight&hide_border=true" />
-
-</div>
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Current Focus
+### ⚡ Technical Skills
 
-```python
-class PiyushBaraskar:
-    def __init__(self):
-        self.status = "Student & Builder"
-        self.learning = ["Machine Learning", "Data Analysis", "NumPy", "Computer Vision"]
-        self.communities = ["Discord", "Reddit"]
-        self.goals_2025 = [
-            "Master ML fundamentals",
-            "Build production-ready projects",
-            "Contribute to open source",
-            "Graduate in 2029 💪"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something cool together 🚀")
-
-me = PiyushBaraskar()
-me.say_hi()
-```
+| Category             | Tools/Technologies                                                            |
+|----------------------|-------------------------------------------------------------------------------|
+| Programming          | C++, Python *(learning DSA)*                                                  |
+| Tools & IDEs         | VS Code, PyCharm                                                              |
+| Version Control      | Git, GitHub                                                                   |
+| Community            | Stack Overflow, Geeksforgeeks, Discord, LeetCode                                             |
+| CS Fundamentals      | OOP, Data Structures *(learning)*                                             |
+| Future Stack (AI/ML) | Flask, NumPy, Pandas, TensorFlow *(planned)*                                  |
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 
-</div>
+  <!-- Stack Overflow -->
+  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+  <!-- PyCharm -->
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <!-- Windows -->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+
+  <!-- GeeksforGeeks -->
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+
+  <!-- LeetCode -->
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
+</p>
+
 
 ---
 
-## 💡 Featured Projects
 
-*🚧 Building in progress... Check back soon!*
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
 
 ---
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+### 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" 
+alt="Activity Graph" />
 
----
+</p>
+<img align="center" alt="coding" 
+width="400" src="luffy.gif" />
 
-⭐️ From [Piyush Baraskar](https://github.com/piyushbaraskar)
 
-</div>
+This is my GitHub profile tell me what improvement should be done
