@@ -6,7 +6,7 @@
 <h3 align="center">A computer science student passionate about Artificial intelligence and machine learning from India</h3>
 
 
-
+---
 
 ### CURRENTLY WORKING 🍀 - 
 | Project Name | Description | Tech Stack | Key Concepts |
