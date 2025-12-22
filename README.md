@@ -31,24 +31,16 @@
 └─$ cat /etc/os-release
 
 NAME="Piyush Baraskar"
-VERSION="Student Edition v2024"
+VERSION="Student Edition v2025"
 ID=cs-student
-ID_LIKE=developer learner
-PRETTY_NAME="Computer Science Student | India"
-HOME_URL="https://github.com/piyush-nextgen"
-SUPPORT_URL="https://linkedin.com/in/piyush-baraskar-994ab6337"
-BUG_REPORT_URL="Learning from every bug"
+SUPPORT_URL=https://www.linkedin.com/in/piyush-baraskar-994ab6337
 ```
 
 ```bash
 ┌──(piyush@github)-[~]
 └─$ ./status.sh
 
-[✓] Currently: Grinding DSA
-[✓] Location: Pune, Maharashtra, IN
-[✓] Focus: Building real projects
-[!] Warning: Breaking things frequently
-[✓] Mission: Learn in public, fail forward
+[✓] Currently: Grinding DSA AND MAKING PROJECT
 ```
 
 ---
@@ -65,15 +57,11 @@ drwxr-xr-x  languages/
 └── learning_dsa    [████████░░░░░░░░░░░░] 40% complete
 
 drwxr-xr-x  tools/
-├── vscode          [daily driver]
-├── pycharm         [python heavyweight]
-├── git             [version control master]
-└── linux           [terminal enthusiast]
+├── vscode          
+├── pycharm        
+├── git             
 
-drwxr-xr-x  currently_learning/
-├── algorithms      [in progress...]
-├── data_structures [grinding daily]
-└── problem_solving [leetcode warrior]
+
 ```
 
 <div align="center">
@@ -92,29 +80,7 @@ drwxr-xr-x  currently_learning/
 
 ```bash
 ┌──(piyush@github)-[~/projects]
-└─$ cat current_missions.log
-
-[MISSION 001] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-│ NAME: Daily DSA Grind
-│ STATUS: ████████░░░░░░░░░░ 45% Complete
-│ GOAL: Master 150 problems across all patterns
-│ LEARNED: Arrays, Strings, Hash Tables
-│ NEXT: Trees and Graph Algorithms
-│ REPO: [Add your repo link]
-└─────────────────────────────────────────────────────────────
-
-[MISSION 002] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-│ NAME: [Your Project Name]
-│ STATUS: ██████░░░░░░░░░░░░ 30% Complete
-│ TECH: Python, APIs, Pain & Suffering
-│ CHALLENGE: Everything breaks in production
-│ LEARNING: Error handling, debugging, patience
-│ REPO: [Add your repo link]
-└─────────────────────────────────────────────────────────────
-```
-
----
-
+└─$ cat current_missions.log ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 📊 SYSTEM METRICS
 
 ```bash
@@ -144,23 +110,6 @@ drwxr-xr-x  currently_learning/
 
 ---
 
-## 🔥 RECENT ACTIVITY
-
-```bash
-┌──(piyush@github)-[~]
-└─$ git log --oneline --graph --all -10
-
-* ae3f891 (HEAD -> main) feat: Solved two-pointer problem
-* bc84a22 docs: Updated learning journal
-* 7d92c41 fix: Debugged binary search implementation
-* 6e71b30 feat: Added dynamic programming solution
-* 5a60d29 refactor: Cleaned up messy code
-* 4b4fc18 docs: Documented algorithm approach
-* 3c3eb17 feat: Implemented stack-based solution
-* 2d2ea16 test: Added edge case tests
-* 1e1dc15 fix: Resolved memory leak
-* 0f0cb14 chore: Daily commit streak maintained
-```
 
 <div align="center">
 
@@ -215,63 +164,6 @@ me = Developer()
 
 ---
 
-## 🎓 LEARNING PATH
-
-```bash
-┌──(piyush@github)-[~/learning]
-└─$ tree -L 2
-
-learning/
-├── 01_foundations/
-│   ├── [✓] Programming Basics (C++, Python)
-│   ├── [✓] OOP Concepts
-│   └── [→] Data Structures (In Progress)
-│
-├── 02_algorithms/
-│   ├── [→] Sorting & Searching
-│   ├── [→] Dynamic Programming
-│   └── [ ] Graph Algorithms (Planned)
-│
-├── 03_development/
-│   ├── [✓] Git & Version Control
-│   ├── [→] Problem Solving Patterns
-│   └── [ ] System Design (Future)
-│
-└── 04_projects/
-    ├── [→] DSA Practice Repo
-    ├── [ ] Real-world Project 1
-    └── [ ] Real-world Project 2
-
-Legend: [✓] Completed  [→] In Progress  [ ] Planned
-```
-
----
-
-## 🤝 CONNECTION PROTOCOLS
-
-```bash
-┌──(piyush@github)-[~]
-└─$ cat /etc/contact.conf
-
-# Available communication channels
-[network.interfaces]
-linkedin  = "https://linkedin.com/in/piyush-baraskar-994ab6337"
-github    = "https://github.com/piyush-nextgen"
-leetcode  = "[Your LeetCode Profile]"
-email     = "[Your Email]"
-
-# Connection policy
-[policy]
-collaboration = "OPEN"
-code_review   = "WELCOMED"
-learning      = "TOGETHER"
-feedback      = "ENCOURAGED"
-
-# Response time
-[sla]
-github_issues    = "24-48 hours"
-collaboration    = "Always interested"
-```
 
 <div align="center">
 
@@ -314,11 +206,6 @@ collaboration    = "Always interested"
 ```diff
 @@                    PHILOSOPHY                     @@
 
-+ Code is never perfect on the first try
-+ Every bug is a learning opportunity
-+ Consistency beats intensity
-+ Build in public, learn from failures
-+ Progress over perfection
 
 ! "The only way to learn programming is to program"
 ```
@@ -345,8 +232,7 @@ Sun  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █  
 
     ░ No contributions   ▓ 1-5 commits   █ 5+ commits
 
-TARGET: Fill this grid with green squares in 2025
-```
+
 
 <div align="center">
 
@@ -354,48 +240,7 @@ TARGET: Fill this grid with green squares in 2025
 
 </div>
 
----
 
-## 🎯 2025 OBJECTIVES
 
-```bash
-┌──(piyush@github)-[~/goals/2025]
-└─$ cat mission_briefing.txt
-
-╔════════════════════════════════════════════════════════════╗
-║                   MISSION OBJECTIVES                       ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░] 50%  Master 200 DSA Problems     ║
-║  [▓▓▓▓▓░░░░░░░░░░░░░░░] 25%  Build 3 Real Projects       ║
-║  [▓▓▓░░░░░░░░░░░░░░░░░] 15%  Contribute to Open Source   ║
-║  [▓▓░░░░░░░░░░░░░░░░░░] 10%  Learn System Design         ║
-║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75%  Daily Commit Streak         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-
-STATUS: On track. Adjusting based on reality.
-MOTTO: Progress over perfection. Consistency over intensity.
-```
-
----
-
-<div align="center">
-
-```bash
-┌──(piyush@github)-[~]
-└─$ exit
-
-    ┌─────────────────────────────────────────┐
-    │  Thanks for visiting my terminal!       │
-    │  Star ⭐ repos if you find them useful  │
-    │  Connect for collaborations             │
-    │  Let's build something together         │
-    └─────────────────────────────────────────┘
-
-[Process completed - Press any key to return to reality]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" width="100%"/>
 
 </div>
