@@ -6,8 +6,9 @@
 <h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
 
 
-### CURRENTLY WORKING 🍀 -
-| Image Data Analyzer - Using  Numpy,   Pillow ,Python |
+| Project Name | Description | Tech Stack | Key Concepts |
+|-------------|-------------|------------|--------------|
+| **Image Data Analyzer** | A Python-based tool that converts images into NumPy arrays and performs pixel-level analysis such as shape inspection, statistical metrics, normalization, and manual grayscale conversion. | Python, NumPy, Pillow (PIL) | Image as data, array manipulation, pixel statistics, preprocessing fundamentals |
 
 
 <p align="left">
