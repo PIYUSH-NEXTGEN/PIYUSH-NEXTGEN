@@ -5,6 +5,13 @@
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
 <h3 align="center">A computer science student passionate about Artificial intelligence and machine learning from India</h3>
 
+<p align="left">
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
+  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
 
 ---
 
@@ -15,14 +22,6 @@
 
 ---
 
-<p align="left">
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
-  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
----
 
 ### 🌐 Connect with me
 <p align="left">
