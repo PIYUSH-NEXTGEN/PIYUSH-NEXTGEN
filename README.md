@@ -7,7 +7,8 @@
 
 
 ### CURRENTLY WORKING 🍀 -
-| Image Data Analyzer - Using  Numpy, Pillow, Python|
+| Image Data Analyzer - Using  Numpy,   Pillow ,Python |
+
 
 <p align="left">
   <!-- Badges -->
