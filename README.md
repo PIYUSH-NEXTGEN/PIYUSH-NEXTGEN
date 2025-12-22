@@ -73,16 +73,6 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
-</p>
-
 
 ---
 
