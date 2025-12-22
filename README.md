@@ -3,7 +3,9 @@
   
 
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
-<h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
+<h3 align="center">A computer science student passionate about Artificial intelligence and machine learning from India</h3>
+
+
 
 
 ### CURRENTLY WORKING 🍀 - 
