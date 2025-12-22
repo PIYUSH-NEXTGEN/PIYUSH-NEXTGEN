@@ -1,9 +1,5 @@
 <img align="center" alt="coding" width="500" src="byakuya kuchiki.gif" />
 </div>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/Piyush Baraskar/master/name.svg" alt="PIYUSH BARASKAR" />
-</h1>
   
 
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
