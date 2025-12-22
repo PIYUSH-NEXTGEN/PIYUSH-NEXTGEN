@@ -6,7 +6,8 @@
 <h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
 
 
-
+### CURRENTLY WORKING 🍀 -
+| Image Data Analyzer - Using  Numpy, Pillow, Python|
 
 <p align="left">
   <!-- Badges -->
