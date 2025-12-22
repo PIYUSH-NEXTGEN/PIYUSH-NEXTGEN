@@ -1,95 +1,115 @@
-<img align="center" alt="coding" width="500" src="byakuya kuchiki.gif" />
+<div align="center">
+
+# 👋 Piyush Baraskar
+
+**CS Student | Building in Public | Learning Through Failure**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/piyush-nextgen)
+[![GitHub Followers](https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social)](https://github.com/piyush-nextgen)
+
 </div>
 
+---
 
-<h2 align="center">👋 Hey there! I'm Piyush</h2>
-<h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
+## 🚀 What I'm Actually Doing
 
+Currently wrestling with **Data Structures & Algorithms** while building real projects that break constantly. No fluff, no "planning to learn" - just code, debug, repeat.
 
-
-
-<p align="left">
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
-  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
-</p>
+### 🔨 Active Projects
+- **[Project Name Here]** - Brief one-line description of what it does
+- **[Learning Repository]** - Daily problem-solving with brutal honesty about failures
+- *(Add your actual projects or create them)*
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-</p>
+## 💻 Tech I Actually Use
+
+```python
+current_stack = {
+    "languages": ["Python", "C++"],
+    "learning_through": ["LeetCode grinding", "Breaking things in VS Code"],
+    "next_challenge": "Building something that matters",
+    "reality_check": "More bugs than features"
+}
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### ⚡ Technical Skills
+## 📊 The Brutal Truth
 
-| Category             | Tools/Technologies                                                            |
-|----------------------|-------------------------------------------------------------------------------|
-| Programming          | C++, Python *(learning DSA)*                                                  |
-| Tools & IDEs         | VS Code, PyCharm                                                              |
-| Version Control      | Git, GitHub                                                                   |
-| Community            | Stack Overflow, Geeksforgeeks, Discord, LeetCode                                             |
-| CS Fundamentals      | OOP, Data Structures *(learning)*                                             |
-| Future Stack (AI/ML) | Flask, NumPy, Pandas, TensorFlow *(planned)*                                  |
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-### 🛠️ Tech Stack
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=radical)
 
-<p align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&layout=compact&theme=radical&count_private=true)
 
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</div>
 
-  <!-- Stack Overflow -->
-  <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-
-  <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-  <!-- PyCharm -->
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-  <!-- Windows -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-
-  <!-- GeeksforGeeks -->
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-
-  <!-- LeetCode -->
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-nextgen&show_icons=true&locale=en&layout=compact&count_private=true" alt="Top Languages" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=default" alt="GitHub Streak" />
-</p>
-
+**Contribution Graph Says It All:** Those gaps? Life happened. Those spikes? Burst motivation. The goal? Make the graph boring by coding consistently.
 
 ---
 
+## 🎯 Current Focus
 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
+**Stop collecting technologies, start building things.**
+
+- ✅ Solving DSA problems daily (even the ones that destroy my ego)
+- 🔄 Building [specific project name] - currently 30% working, 70% debugging
+- 📚 Reading others' code to understand why mine sucks
+- 🤝 Actually engaging with dev communities instead of just lurking
 
 ---
 
-### 📈 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" alt="Activity Graph" />
-</p>
-<img align="center" alt="coding" width="400" src="luffy.gif" />
+## 🔗 Connect & Collaborate
+
+I'm learning in public. If you spot terrible code in my repos, that's intentional transparency. Open to:
+- Code reviews (be harsh)
+- Project collaborations
+- Learning together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+## 💡 Philosophy
+
+```javascript
+while (alive) {
+    eat();
+    code();
+    break_things();
+    learn_from_failures();
+    repeat();
+}
+```
+
+**Reality over Resume.** I'd rather show you a messy project I actually built than a polished list of technologies I'm "planning to learn."
+
+---
+
+<div align="center">
+
+### 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark&hide_border=true&area=true)
+
+---
+
+*"The best time to start was yesterday. The second best time is now. The worst time is tomorrow."*
+
+**Last Updated:** Automatically via GitHub Actions *(or manually when I remember)*
+
+</div>
