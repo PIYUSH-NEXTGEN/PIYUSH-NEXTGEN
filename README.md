@@ -2,7 +2,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="PIYUSH BARASKAR" />
+  <img src="https://raw.githubusercontent.com/martonlederer/Piyush Baraskar/master/name.svg" alt="PIYUSH BARASKAR" />
 </h1>
   
 
