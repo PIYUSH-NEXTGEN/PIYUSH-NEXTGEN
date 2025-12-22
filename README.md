@@ -13,24 +13,17 @@
 
 ## 🚀 What I'm Actually Doing
 
-Currently wrestling with **Data Structures & Algorithms** while building real projects that break constantly. No fluff, no "planning to learn" - just code, debug, repeat.
+Currently wrestling with **Data Structures & Algorithms** while building real projects. - just code, debug, repeat.
 
 ### 🔨 Active Projects
-- **[Project Name Here]** - Brief one-line description of what it does
-- **[Learning Repository]** - Daily problem-solving with brutal honesty about failures
-- *(Add your actual projects or create them)*
-
----
+- **[Image data analyzer]** - 
 
 ## 💻 Tech I Actually Use
 
 ```python
 current_stack = {
     "languages": ["Python", "C++"],
-    "learning_through": ["LeetCode grinding", "Breaking things in VS Code"],
-    "next_challenge": "Building something that matters",
-    "reality_check": "More bugs than features"
-}
+    "learning_through": ["LeetCode grinding", "Breaking things in VS Code and Pycharm"],
 ```
 
 <div align="center">
@@ -44,7 +37,7 @@ current_stack = {
 
 ---
 
-## 📊 The Brutal Truth
+## 📊 
 
 <div align="center">
 
@@ -64,10 +57,9 @@ current_stack = {
 
 **Stop collecting technologies, start building things.**
 
-- ✅ Solving DSA problems daily (even the ones that destroy my ego)
-- 🔄 Building [specific project name] - currently 30% working, 70% debugging
-- 📚 Reading others' code to understand why mine sucks
-- 🤝 Actually engaging with dev communities instead of just lurking
+-  Solving DSA problems daily
+-  Building [Image data analytics] 
+- Engaging with dev communities
 
 ---
 
@@ -84,21 +76,7 @@ I'm learning in public. If you spot terrible code in my repos, that's intentiona
 
 ---
 
-## 💡 Philosophy
 
-```javascript
-while (alive) {
-    eat();
-    code();
-    break_things();
-    learn_from_failures();
-    repeat();
-}
-```
-
-**Reality over Resume.** I'd rather show you a messy project I actually built than a polished list of technologies I'm "planning to learn."
-
----
 
 <div align="center">
 
@@ -109,7 +87,5 @@ while (alive) {
 ---
 
 *"The best time to start was yesterday. The second best time is now. The worst time is tomorrow."*
-
-**Last Updated:** Automatically via GitHub Actions *(or manually when I remember)*
 
 </div>
