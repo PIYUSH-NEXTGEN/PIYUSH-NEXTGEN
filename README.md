@@ -12,235 +12,111 @@
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+ <div align="center">
+  
+# 👋 Hey, I'm Piyush Baraskar
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Building+in+Public;Learning+Through+Failure;Code.+Debug.+Repeat.)
-
-[![GitHub followers](https://img.shields.io/github/followers/piyush-nextgen?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00ff00)](https://github.com/piyush-nextgen)
-[![Profile Views](https://komarev.com/ghpvc/?username=piyush-nextgen&style=for-the-badge&color=00ff00&label=SYSTEM+ACCESS)](https://github.com/piyush-nextgen)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8AFF&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Python+Enthusiast;Building+ML+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📟 SYSTEM STATUS
+## 🚀 About Me
 
-```bash
-┌──(piyush@github)-[~]
-└─$ cat /etc/os-release
-
-NAME="Piyush Baraskar"
-VERSION="Student Edition v2025"
-ID=cs-student
-SUPPORT_URL=https://www.linkedin.com/in/piyush-baraskar-994ab6337
-```
-
-```bash
-┌──(piyush@github)-[~]
-└─$ ./status.sh
-
-[✓] Currently: Grinding DSA AND MAKING PROJECT
-```
+🎓 **Computer Science Student** diving deep into Machine Learning and Software Development  
+💻 Currently building projects in **Python** and **C++**  
+🔭 Exploring **ML, Data Analysis, and System Programming**  
+🌱 Learning by building real projects, not just tutorials  
+📫 Let's connect: **[LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)**
 
 ---
 
-## 💻 TECH STACK
-
-```bash
-┌──(piyush@github)-[~/tech]
-└─$ ls -la
-
-drwxr-xr-x  languages/
-├── python          [████████████████████░] 85% proficiency
-├── cpp             [██████████████████░░] 80% proficiency
-└── learning_dsa    [████████░░░░░░░░░░░░] 40% complete
-
-drwxr-xr-x  tools/
-├── vscode          
-├── pycharm        
-├── git             
-
-
-```
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=black)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp" alt="Python, C++" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,git" alt="VS Code, GitHub, PyCharm, Git" />
+
+### Currently Learning
+<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+**Machine Learning** • **Data Science** • **Algorithm Design**
 
 </div>
 
 ---
 
-## 🎯 ACTIVE MISSIONS
-
-```bash
-┌──(piyush@github)-[~/projects]
-└─$ cat current_missions.log ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-## 📊 SYSTEM METRICS
-
-```bash
-┌──(piyush@github)-[~]
-└─$ ./get-stats.sh
-
-╔═══════════════════════════════════════════════════════════╗
-║                    GITHUB STATISTICS                      ║
-╠═══════════════════════════════════════════════════════════╣
-║  Total Commits (2024)    │  92                           ║
-║  Active Repositories     │  XX                           ║
-║  Code Contributions      │  Growing Daily                ║
-║  Current Streak          │  X Days                       ║
-║  Longest Streak          │  XX Days                      ║
-║  Languages               │  Python (45%), C++ (54%)      ║
-╚═══════════════════════════════════════════════════════════╝
-```
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&currStreakNum=00ff00&sideLabels=00ff00&dates=00ff00&border=00ff00&hide_border=false" width="49%" />
+![Profile Views](https://komarev.com/ghpvc/?username=piyushbaraskar&color=3F8AFF&style=flat-square&label=Profile+Views)
+![Stars](https://img.shields.io/badge/Total%20Stars-32-yellow?style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-nextgen&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=00ff00&border_color=00ff00&hide_border=false" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piyushbaraskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushbaraskar&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=false)
-
-</div>
-
----
-
-## 🛠️ CURRENT WORKFLOW
+## 🎯 Current Focus
 
 ```python
-#!/usr/bin/env python3
-# daily_routine.py
-
-class Developer:
+class PiyushBaraskar:
     def __init__(self):
-        self.name = "Piyush"
-        self.role = "CS Student"
-        self.language_spoken = ["hi_IN", "en_US"]
-        self.code = ["Python", "C++"]
-        self.tools = ["VS Code", "Git", "Linux"]
-        
-    def daily_routine(self):
-        activities = [
-            "☕ Coffee++",
-            "💻 Open VS Code",
-            "🧠 Learn new concept",
-            "⚡ Code implementation",
-            "🐛 Debug (70% of time)",
-            "📝 Document learnings",
-            "🔄 Push to GitHub",
-            "📚 Read others' code",
-            "🌙 Sleep(if time.allows())"
+        self.status = "Student & Builder"
+        self.learning = ["Machine Learning", "Data Analysis", "NumPy", "Computer Vision"]
+        self.communities = ["Discord", "Reddit"]
+        self.goals_2025 = [
+            "Master ML fundamentals",
+            "Build production-ready projects",
+            "Contribute to open source",
+            "Graduate in 2029 💪"
         ]
-        
-        for task in activities:
-            self.execute(task)
-            
-    def life_philosophy(self):
-        return """
-        while(alive):
-            eat()
-            code()
-            debug()
-            learn()
-            repeat()
-        """
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something cool together 🚀")
 
-me = Developer()
+me = PiyushBaraskar()
+me.say_hi()
 ```
 
 ---
 
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/piyush-baraskar-994ab6337)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/piyush-nextgen)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=black)](#)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com)
 
 </div>
 
 ---
 
-## 💭 TERMINAL WISDOM
+## 💡 Featured Projects
 
-```bash
-┌──(piyush@github)-[~]
-└─$ fortune | cowsay -f tux
-
- _________________________________________
-/ "The best error message is the one     \
-| that never shows up."                  |
-|                                        |
-| - Reality: I see them all the time.   |
-| Learning from each one.                |
-\ Building resilience through bugs.     /
- -----------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-```
-
-<div align="center">
-
-```diff
-@@                    PHILOSOPHY                     @@
-
-
-! "The only way to learn programming is to program"
-```
-
-</div>
+*🚧 Building in progress... Check back soon!*
 
 ---
 
-## 📈 CONTRIBUTION HEATMAP
-
-```bash
-┌──(piyush@github)-[~]
-└─$ ./show-contributions.sh --year=2024
-
-                     CONTRIBUTION ACTIVITY
-    Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
-Mon  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    ░
-Tue  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    ░
-Wed  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █    █
-Thu  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █    █
-Fri  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █    █
-Sat  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █    █
-Sun  ░    ░    ░    ░    ░    ░    ░    ░    ░    ░    █    █
-
-    ░ No contributions   ▓ 1-5 commits   █ 5+ commits
-
-
-
 <div align="center">
 
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-nextgen&theme=github_dark)
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+---
 
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
+---
 
+⭐️ From [Piyush Baraskar](https://github.com/piyushbaraskar)
 
 </div>
