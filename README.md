@@ -30,12 +30,12 @@
 
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
-| Programming          | C++, Python *(learning DSA)*                                                  |
+| Programming          | C++, Python                                                  |
 | Tools & IDEs         | VS Code, PyCharm                                                              |
 | Version Control      | Git, GitHub                                                                   |
-| Community            | Stack Overflow, Geeksforgeeks, Discord, LeetCode                                             |
-| CS Fundamentals      | OOP, Data Structures *(learning)*                                             |
-| Future Stack (AI/ML) | Flask, NumPy, Pandas, TensorFlow *(planned)*                                  |
+| Community            |Geeksforgeeks, Discord, LeetCode, Reddit                                            |
+| CS Fundamentals      | OOP, Data Structures                                            |
+| Future Stack (AI/ML) | Flask Pandas, TensorFlow *(learning)*                                  |
 
 ---
 
