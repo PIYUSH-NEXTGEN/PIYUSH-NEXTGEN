@@ -92,10 +92,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" 
 alt="Activity Graph" />
-
-</p>
-<img align="center" alt="coding" 
-width="400" src="luffy.gif" />
-
-
-This is my GitHub profile tell me what improvement should be done
