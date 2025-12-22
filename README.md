@@ -1,6 +1,10 @@
 <img align="center" alt="coding" width="500" src="byakuya kuchiki.gif" />
 </div>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="PIYUSH BARASKAR" />
+</h1>
+  
 
 <h2 align="center">👋 Hey there! I'm Piyush</h2>
 <h3 align="center">A computer science student passionate about AI/ML & software development from India</h3>
