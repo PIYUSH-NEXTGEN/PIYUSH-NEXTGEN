@@ -41,7 +41,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 
 <p align="center">
   <!-- Python -->
