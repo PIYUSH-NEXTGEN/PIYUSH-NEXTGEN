@@ -13,6 +13,7 @@
 |-------------|-------------|------------|--------------|
 | **Image Data Analyzer** | A Python-based tool that converts images into NumPy arrays and performs pixel-level analysis such as shape inspection, statistical metrics, normalization, and manual grayscale conversion. | Python, NumPy, Pillow (PIL) | Image as data, array manipulation, pixel statistics, preprocessing fundamentals |
 
+---
 
 <p align="left">
   <!-- Badges -->
