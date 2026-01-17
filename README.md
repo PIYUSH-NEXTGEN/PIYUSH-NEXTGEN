@@ -81,8 +81,6 @@
 ---
 
 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/piyush-baraskar-994ab6337)
-
 ---
 
 ### 📈 My GitHub Activity
