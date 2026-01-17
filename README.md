@@ -41,9 +41,9 @@
 | Programming          | C++, Python                                                  |
 | Tools & IDEs         | VS Code, PyCharm                                                              |
 | Version Control      | Git, GitHub                                                                   |
-| Community            |Geeksforgeeks, Discord, LeetCode, Reddit, CodeChef                                           |
+| Community            | GFG, Discord, LeetCode, Reddit, CodeChef                                           |
 | CS Fundamentals      | OOP, Data Structures                                            |
-| Future Stack (AI/ML) | Flask Pandas, TensorFlow *(learning)*                                  |
+| Future Stack(ML)     | Streamlit (Learning), Matplotlib , Seaborn                                   |
 
 ---
 
