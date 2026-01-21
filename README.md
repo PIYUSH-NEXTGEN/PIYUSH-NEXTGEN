@@ -5,7 +5,7 @@
  
 ---
 <h2 align="center">👋 WASSUP ! I'm Piyush</h2>
-<h3 align="center">MACHINE LEARNING GUY THIS SIDE</h3>
+<h3 align="center">|CS-2029|  MACHINE LEARNING GUY THIS SIDE</h3>
 
 <p align="left">
   <!-- Badges -->
