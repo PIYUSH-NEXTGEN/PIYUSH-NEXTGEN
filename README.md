@@ -4,8 +4,8 @@
 </p>
  
 ---
-<h2 align="center">👋 Hey there! I'm Piyush</h2>
-<h3 align="center">A computer science student passionate about Artificial intelligence and machine learning from India</h3>
+<h2 align="center">👋 WASSUP ! I'm Piyush</h2>
+<h3 align="center">MACHINE LEARNING GUY THIS SIDE</h3>
 
 <p align="left">
   <!-- Badges -->
