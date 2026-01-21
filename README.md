@@ -4,7 +4,7 @@
 </p>
  
 ---
-<h2 align="center">👋 WASSUP ! I'm Piyush</h2>
+<h2 align="center">👋 WASSUP ! Piyush this side</h2>
 <h3 align="center">| CS-2029 |  PASSIONATE IN MACHINE LEARNING </h3>
 
 <p align="left">
