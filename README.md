@@ -5,7 +5,8 @@
  
 ---
 <h2 align="center">👋 WASSUP ! Piyush this side</h2>
-<h3 align="center">| CS-2029 |  PASSIONATE IN MACHINE LEARNING </h3>
+<h3 align="center"> | CS-2029 | </h3>
+<h3 align="center"> PASSIONATE IN MACHINE LEARNING </h3>
 
 <p align="left">
   <!-- Badges -->
