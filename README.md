@@ -18,10 +18,10 @@
 
 ---
 
-### CURRENTLY WORKING 🍀 - 
-| Project Name | Description | Tech Stack | Key Concepts |
+### CURRENTLY DOING 🍀 - 
+| Topic | Description | Tech Stack | Key Concepts |
 |-------------|-------------|------------|--------------|
-| **Image Data Analyzer** | A Python-based tool that converts images into NumPy arrays and performs pixel-level analysis such as shape inspection, statistical metrics, normalization, and manual grayscale conversion. | Python, NumPy, Pillow (PIL) | Image as data, array manipulation, pixel statistics, preprocessing fundamentals |
+| **MATPLOTLIB & Seaborn and Adv numpy and pandas** |  Python libs used for data visualization in data sci and ml. | Python, NumPy, Pandas | Data visualization, plotting graphs,statistics  |
 
 ---
 
