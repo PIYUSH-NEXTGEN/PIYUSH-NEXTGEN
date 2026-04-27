@@ -39,10 +39,10 @@
 
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
-| Programming          | C++, Python         
+| Programming          | C, C++, Python         
 | Libararies           | Numpy, Pandas, Seaborn, Matplotlib  
-| Tools & IDEs         | VS Code, PyCharm , Cursor, Git, GITHUB                                                                                                  
-| Community            | GFG, Discord, LeetCode, Reddit, CodeChef                                           |
+| Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB                                                                                                  
+| Community            | GFG, Discord, LeetCode, Reddit, CodeChef, Twitter, Linkedin                                           |
 | Concepts             | OOP, Data Structures, Prompt Engineering                                          |
 | Future Stack(ML)     | Fast API, SQL, Pydantic,                                  |
 
