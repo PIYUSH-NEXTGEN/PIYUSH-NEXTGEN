@@ -21,7 +21,7 @@
 ### CURRENTLY DOING 🍀 - 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------------|-------------|------------|--------------|
-| **MATPLOTLIB & Seaborn and Adv numpy and pandas** |  Python libs used for data visualization in data sci and ml. | Python, NumPy, Pandas | Data visualization, plotting graphs,statistics  |
+| **EDA** |  Data analysis and EDA projects. | Seaborn,Matplotlib, NumPy, Pandas | Data visualization, plotting graphs,statistics, feature engineering  |
 
 ---
 
@@ -40,11 +40,11 @@
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
 | Programming          | C++, Python                                                  |
-| Tools & IDEs         | VS Code, PyCharm                                                              |
+| Tools & IDEs         | VS Code, PyCharm , Cursor                                                             |
 | Version Control      | Git, GitHub                                                                   |
 | Community            | GFG, Discord, LeetCode, Reddit, CodeChef                                           |
 | CS Fundamentals      | OOP, Data Structures                                            |
-| Future Stack(ML)     | Streamlit (Learning), Matplotlib , Seaborn                                   |
+| Future Stack(ML)     | Fast API, SQL, Pydantic,                                  |
 
 ---
 
