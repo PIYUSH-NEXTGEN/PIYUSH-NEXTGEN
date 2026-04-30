@@ -10,7 +10,7 @@
 
 <p align="left">
   <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-nextgen" />
+   <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true&base=0" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
 </p>
