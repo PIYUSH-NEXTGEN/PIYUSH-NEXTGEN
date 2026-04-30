@@ -40,10 +40,10 @@
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
 | Programming          | C, C++, Python         
-| Libararies           | Numpy, Pandas, Seaborn, Matplotlib  
+| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL  
 | Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB                                                                                                  
-| Community            | GFG, Discord, LeetCode, Reddit, CodeChef, Twitter, Linkedin                                           |
-| Concepts             | OOP, Data Structures, Prompt Engineering                                          |
+| Communities          | Discord, Reddit, Twitter, Linkedin                                           |
+| Concepts             | OOP, Data Structures, Prompt Engineering, Feature Engineering                                          |
 | Future Stack(ML)     | Fast API, SQL, Pydantic,                                  |
 
 ---
