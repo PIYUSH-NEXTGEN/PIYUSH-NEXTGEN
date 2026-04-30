@@ -21,7 +21,7 @@
 ### CURRENTLY DOING 🍀 - 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------------|-------------|------------|--------------|
-| **EDA** |  Data analysis and EDA projects. | Seaborn,Matplotlib, NumPy, Pandas | Data visualization, plotting graphs,statistics, feature engineering  |
+| **EDA and Improving older projects** |  Data analysis and EDA projects + working on enhancing previous projects. | Seaborn,Matplotlib, NumPy, Pandas | Data visualization, plotting graphs,statistics, feature engineering  |
 
 ---
 
