@@ -40,7 +40,7 @@
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
 | Programming          | C, C++, Python         
-| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL  
+| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame  
 | Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB                                                                                                  
 | Communities          | Discord, Reddit, Twitter, Linkedin                                           |
 | Concepts             | OOP, Data Structures, Prompt Engineering, Feature Engineering                                          |
