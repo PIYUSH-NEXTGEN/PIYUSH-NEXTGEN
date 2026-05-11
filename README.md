@@ -21,7 +21,7 @@
 ### CURRENTLY DOING 🍀 - 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------------|-------------|------------|--------------|
-| **EDA and Improving older projects** |  Data analysis and EDA projects + working on enhancing previous projects. | Seaborn,Matplotlib, NumPy, Pandas | Data visualization, plotting graphs,statistics, feature engineering  |
+| **Backend Development & Database Systems** | Learning to build structured backend systems, APIs, and database-driven applications for real-world projects  | Python, SQL, MySQL, FastAPI, Pydantic | REST API Development, Schema Validation, CRUD Systems, Relational Databases, Request Handling, Authentication Basics, API Testing  |
 
 ---
 
