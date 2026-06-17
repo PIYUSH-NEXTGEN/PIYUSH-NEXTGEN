@@ -4,9 +4,9 @@
 </p>
  
 ---
-<h2 align="center">👋 SUP ! Piyush this side</h2>
+<h2 align="center">👋 SUP ! Piyush aka Majestic this side</h2>
 <h3 align="center"> | CS-2029 | </h3>
-<h3 align="center"> FELLOW MACHINE LEARNING GUY </h3>
+<h3 align="center"> Breaking, Building, Sleeping </h3>
 
 <p align="left">
   <!-- Badges -->
@@ -21,7 +21,7 @@
 ### CURRENTLY DOING 🍀 - 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------------|-------------|------------|--------------|
-| **Backend Development & Database Systems** | Learning to build structured backend systems, APIs, and database-driven applications for real-world projects  | Python, SQL, MySQL, FastAPI, Pydantic | REST API Development, Schema Validation, CRUD Systems, Relational Databases, Request Handling, Authentication Basics, API Testing  |
+| **Machine Learning & AI** | Learning Machine Learning through CampusX's & Andrew Ng focusing on both theoretical foundations and practical implementation | Python, NumPy, Pandas, Matplotlib, Scikit-learn | Data Preprocessing, Exploratory Data Analysis, Supervised Learning, Model Evaluation, Feature Engineering, Machine Learning Fundamentals, Statistics for ML |
 
 ---
 
@@ -39,12 +39,12 @@
 
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
-| Programming          | C, C++, Python         
-| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame  
-| Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB                                                                                                  
+| Programming          | C, C++, Python, SQL         
+| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame , Pydantic 
+| Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB, MY SQL                                                                                                  
 | Communities          | Discord, Reddit, Twitter, Linkedin                                           |
 | Concepts             | OOP, Data Structures, Prompt Engineering, Feature Engineering                                          |
-| Future Stack(ML)     | Fast API, SQL, Pydantic,                                  |
+| Future Stack(ML)     | Computer Vision, Natural Language processing                                 |
 
 ---
 
