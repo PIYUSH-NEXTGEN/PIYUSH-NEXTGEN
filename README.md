@@ -4,7 +4,7 @@
 </p>
  
 ---
-<h2 align="center">👋 SUP ! Piyush aka Majestic this side</h2>
+<h2 align="center">👋 SUP ! Piyush this side</h2>
 <h3 align="center"> | CS-2029 | </h3>
 <h3 align="center"> Breaking, Building, Sleeping </h3>
 
@@ -40,10 +40,10 @@
 | Category             | Tools/Technologies                                                            |
 |----------------------|-------------------------------------------------------------------------------|
 | Programming          | C, C++, Python, SQL         
-| Libararies           | Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame , Pydantic 
-| Tools & IDEs         | VS Code, PyCharm, Cursor, Git, GITHUB, MY SQL                                                                                                  
-| Communities          | Discord, Reddit, Twitter, Linkedin                                           |
-| Concepts             | OOP, Data Structures, Prompt Engineering, Feature Engineering                                          |
+| Libararies & Frameoworks         | Fastapi, Numpy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame, Pydantic  
+| Tools & IDEs         | VS Code, PyCharm, Git, GITHUB, MY SQL, Antigravity/Cursor                                                                                                 
+| Communities          | Discord, Twitter, Linkedin                                           |
+| Concepts             | OOP, Data Structures, Prompt Engineering, Feature Engineering, ML algorithms                                          |
 | Future Stack(ML)     | Computer Vision, Natural Language processing                                 |
 
 ---
