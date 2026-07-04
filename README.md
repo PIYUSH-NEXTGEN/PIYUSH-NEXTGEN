@@ -50,5 +50,5 @@
 
 ### 📈 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark" 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark&hide_border=true&area=true&radius=8" />
 alt="Activity Graph" />
