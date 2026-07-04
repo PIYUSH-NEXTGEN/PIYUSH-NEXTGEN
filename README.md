@@ -18,40 +18,39 @@
 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------|-------------|------------|---------------|
-| **Machine Learning & AI** | Learning Machine Learning through CampusX & Andrew Ng, focusing on both theoretical foundations and practical implementation | Python, NumPy, Pandas, Matplotlib, Scikit-learn | Data Preprocessing, Exploratory Data Analysis, Supervised Learning, Model Evaluation, Feature Engineering, ML Fundamentals, Statistics for ML |
-
+| **Machine Learning & AI** | Studying Machine Learning from  Andrew Ng's Machine Learning Specialization, implementing algorithms from scratch using NumPy before applying them with Scikit-learn and TensorFlow. | Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Feature Engineering, Linear Regression, Polynomial Regression, Logistic Regression, Cost Functions, Gradient Descent, Supervised Learning, Model Evaluation, Neural Networks |
 ---
 
 ### ⚡ Technical Skills
 
-| Category | Tools/Technologies |
-|----------|---------------------|
-| Programming | C, C++, Python, SQL |
-| Libraries & Frameworks | FastAPI, NumPy, Pandas, Seaborn, Matplotlib, Tkinter, PIL, Pygame, Pydantic |
-| Tools & IDEs | VS Code, PyCharm, Git, GitHub, MySQL, Antigravity/Cursor |
-| Communities | Discord, Twitter, LinkedIn |
-| Concepts | OOP, Data Structures, Prompt Engineering, Feature Engineering, ML Algorithms |
-| Future Stack (ML) | Computer Vision, Natural Language Processing |
-
+| Category | Tools / Technologies |
+|----------|-----------------------|
+| **Programming Languages** | C, C++, Python, SQL |
+| **Machine Learning** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
+| **Backend** | FastAPI, Pydantic |
+| **Databases** | MySQL |
+| **GUI & Game Development** | Tkinter, Pygame |
+| **Image Processing** | Pillow (PIL) |
+| **Version Control** | Git, GitHub |
+| **Development Tools & IDEs** | VS Code, PyCharm, Cursor, Antigravity |
+| **Computer Science Concepts** | OOP, Data Structures & Algorithms, Feature Engineering, Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning Algorithms |
+| **Currently Learning** | Machine Learning, Neural Networks, Deep Learning, |
+| **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
 ---
 
 ### 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/Piyush_NextGen" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
   </a>
 </p>
 
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyush-nextgen&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-nextgen&theme=react&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=0e75b6" alt="GitHub Streak" />
-</p>
-
+ 
 ---
 
 ### Activity Graph
