@@ -59,4 +59,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-nextgen&theme=react-dark&hide_border=true&area=true&radius=8" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 ---
