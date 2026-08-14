@@ -40,6 +40,7 @@
 
 ### 🌐 Connect with me
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-baraskar-994ab6337" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
@@ -48,6 +49,17 @@
   <a href="https://x.com/Piyush_NextGen" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
   </a>
-</p>
 
+  <a href="https://dev.to/piyushnextgen" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="DEV.to" />
+  </a>
+
+  <a href="https://peerlist.io/piyush_nextgen" target="_blank">
+  <img src="https://img.shields.io/badge/Peerlist-00AA45?logo=peerlist&logoColor=white&style=for-the-badge" alt="Peerlist" />
+</a>
+
+  <a href="https://bsky.app/profile/majestic728.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky" />
+  </a>
+</p>
  ---
