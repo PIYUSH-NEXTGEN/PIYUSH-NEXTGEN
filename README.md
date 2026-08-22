@@ -29,8 +29,7 @@
 | **Machine Learning** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
 | **Backend** | FastAPI, Pydantic |
 | **Databases** | MySQL, PostgreSQL |
-| **Version Control** | Git, GitHub |
-| **Computer Science Concepts** | OOP, Data Structures & Algorithms, Feature Engineering, Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning Algorithms |
+| **Computer Science Fundamentals** | OOP, Data Structures & Algorithms |
 | **Currently Learning** | Machine Learning, Neural Networks, Deep Learning, |
 | **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
 ---
