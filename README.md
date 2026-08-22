@@ -25,14 +25,11 @@
 
 | Category | Tools / Technologies |
 |----------|-----------------------|
-| **Programming Languages** | C, C++, Python, SQL |
+| **Programming Languages** |  Python , C++ |
 | **Machine Learning** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
 | **Backend** | FastAPI, Pydantic |
-| **Databases** | MySQL |
-| **GUI & Game Development** | Tkinter, Pygame |
-| **Image Processing** | Pillow (PIL) |
+| **Databases** | MySQL, PostgreSQL |
 | **Version Control** | Git, GitHub |
-| **Development Tools & IDEs** | VS Code, PyCharm, Cursor, Antigravity |
 | **Computer Science Concepts** | OOP, Data Structures & Algorithms, Feature Engineering, Data Preprocessing, Exploratory Data Analysis (EDA), Machine Learning Algorithms |
 | **Currently Learning** | Machine Learning, Neural Networks, Deep Learning, |
 | **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
