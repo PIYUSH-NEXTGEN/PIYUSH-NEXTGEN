@@ -34,6 +34,7 @@
 | **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
 ---
 
+
 ### 🌐 Connect with me
 
 
@@ -51,10 +52,14 @@
   </a>
 
   <a href="https://peerlist.io/piyush_nextgen" target="_blank">
-  <img src="https://img.shields.io/badge/Peerlist-00AA45?logo=peerlist&logoColor=white&style=for-the-badge" alt="Peerlist" />
-</a>
+    <img src="https://img.shields.io/badge/Peerlist-00AA45?logo=peerlist&logoColor=white&style=for-the-badge" alt="Peerlist" />
+  </a>
 
   <a href="https://bsky.app/profile/majestic728.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="Bluesky" />
+  </a>
+
+  <a href="https://hashnode.com/@piyushnextgen" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="Hashnode" />
   </a>
 </p>
