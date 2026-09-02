@@ -34,6 +34,13 @@
 | **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
 ---
 
+### 🚀 Projects
+| Name | Description | Tech Stack | Live Demo | GitHub Repo |
+|------|--------------|------------|-----------|--------------|
+| **LUMEN** | An full stack image analytics platform  computes per-image and per-channel statistics, image-quality metrics (brightness, contrast, sharpness, colorfulness, entropy), dominant colors, and exact-duplicate detection, with a FastAPI backend, PostgreSQL persistence, and a React frontend for upload, gallery browsing, and comparison. | Python, FastAPI, PostgreSQL, SQLAlchemy, React, Vite | [Live Site](https://lumen-image-analyzer.vercel.app/) | [GitHub](https://github.com/PIYUSH-NEXTGEN/LUMEN) |
+
+---
+
 
 ### 🌐 Connect with me
 
