@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="image-data-analyzer-animation" width="400" />
 </p>
 
-<h2 align="center">👋 SUP! Piyush this side</h2>
-<h3 align="center">| CS-2029 |</h3>
-<h3 align="center">Breaking, Building, Sleeping</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true&base=0" alt="Profile Views" />
