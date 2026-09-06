@@ -15,7 +15,7 @@
 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------|-------------|------------|---------------|
-| **Machine Learning & AI** | Studying Machine Learning from  Andrew Ng's Machine Learning Specialization, implementing algorithms from scratch using NumPy before applying them with Scikit-learn and TensorFlow. | Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Feature Engineering, Linear Regression, Polynomial Regression, Logistic Regression, Cost Functions, Gradient Descent, Supervised Learning, Model Evaluation, Neural Networks |
+| **Machine Learning & AI** | Studying Machine Learning ,implementing algorithms with Scikit-learn and TensorFlow. | Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Feature Engineering, Linear Regression, Polynomial Regression, Logistic Regression, Cost Functions, Gradient Descent, Supervised Learning, Model Evaluation, Neural Networks |
 ---
 
 ### ⚡ Technical Skills
