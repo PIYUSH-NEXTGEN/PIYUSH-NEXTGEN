@@ -15,20 +15,20 @@
 
 | Topic | Description | Tech Stack | Key Concepts |
 |-------|-------------|------------|---------------|
-| **Machine Learning & AI** | Studying Machine Learning ,implementing algorithms with Scikit-learn and TensorFlow. | Python, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Feature Engineering, Linear Regression, Polynomial Regression, Logistic Regression, Cost Functions, Gradient Descent, Supervised Learning, Model Evaluation, Neural Networks |
+| **Machine Learning** | Studying ML, implementing algorithms . | Py, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Supervised & Unsupervised ML  |
 ---
 
-### ⚡ Technical Skills
+### ⚡ Tech Stack i work with
 
 | Category | Tools / Technologies |
 |----------|-----------------------|
-| **Programming Languages** |  Python , C++ |
-| **Machine Learning** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
+| **Programming Languages** |  Python , JS/TS, SQL, C++ |
+| **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
 | **Backend** | FastAPI, Pydantic |
-| **Databases** | MySQL, PostgreSQL |
+| **Databases** | MySQL, PostgreSQL, SQL alchemy |
 | **Computer Science Fundamentals** | OOP, Data Structures & Algorithms |
-| **Currently Learning** | Machine Learning, Neural Networks, Deep Learning, |
-| **Future Stack** | Computer Vision, Natural Language Processing, Transformers, Large Language Models (LLMs) |
+| **Deployment** | Render, Vercel |
+| **Machine learning** | Supervised, Unsupervised, Data analysis |
 ---
 
 ### 🚀 Projects
