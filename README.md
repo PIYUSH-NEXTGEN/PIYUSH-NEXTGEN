@@ -13,9 +13,12 @@
 
 ### 🍀 Currently Doing
 
-| Topic | Description | Tech Stack | Key Concepts |
-|-------|-------------|------------|---------------|
-| **Machine Learning** | Studying ML, implementing algorithms . | Py, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow | Supervised & Unsupervised ML  |
+* **Machine Learning**
+* **Backend Development**
+* **Golang**
+* **Data Structures & Algorithms**
+* **Portfolio Development**
+
 ---
 
 ### ⚡ Tech Stack i work with
