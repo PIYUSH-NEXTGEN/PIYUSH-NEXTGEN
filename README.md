@@ -25,7 +25,7 @@
 
 | Category | Tools / Technologies |
 |----------|-----------------------|
-| **Programming Languages** |  Python , JS/TS, SQL, C++ |
+| **Programming Languages** |  Python , Golang, SQL, JS/TS, C++ |
 | **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
 | **Backend** | FastAPI, Pydantic |
 | **Databases** | MySQL, PostgreSQL, SQL alchemy |
