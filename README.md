@@ -14,10 +14,8 @@
 ### 🍀 Currently Doing
 
 * **Machine Learning**
-* **Backend Development**
-* **Golang**
+* **Backend Development in Golang**
 * **Data Structures & Algorithms**
-* **Portfolio Development**
 
 ---
 
