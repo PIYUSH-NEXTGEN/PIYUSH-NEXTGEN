@@ -32,11 +32,14 @@
 | **Machine learning** | Supervised, Unsupervised, Data analysis |
 ---
 
-### 🚀 Projects
-| Name | Description | Tech Stack | Live Demo | GitHub Repo |
-|------|--------------|------------|-----------|--------------|
-| **LUMEN** | A full stack image analytics platform  computes per-image and per-channel statistics, image-quality metrics (brightness, contrast, sharpness, colorfulness, entropy), dominant colors, and exact-duplicate detection, with a FastAPI backend, PostgreSQL persistence, and a React frontend for upload, gallery browsing, and comparison. | Python, FastAPI, PostgreSQL, SQLAlchemy, React, Vite | [Live Site](https://lumen-image-analyzer.vercel.app/) | [GitHub](https://github.com/PIYUSH-NEXTGEN/LUMEN) |
 
+### 🚀 Projects
+
+| Name | Description | Tech Stack | Live Demo | GitHub Repo |
+|------|-------------|------------|-----------|-------------|
+| **LUMEN** | A full-stack image analytics platform that computes per-image and per-channel statistics, image-quality metrics (brightness, contrast, sharpness, colorfulness, entropy), dominant colors, and exact-duplicate detection, with a FastAPI backend, PostgreSQL persistence, and a React frontend for upload, gallery browsing, and comparison. | Python, FastAPI, PostgreSQL, SQLAlchemy, React, Vite | [Live Site](https://lumen-image-analyzer.vercel.app/) | [GitHub](https://github.com/PIYUSH-NEXTGEN/LUMEN) |
+| **Vocab Deck** | An interactive vocabulary learning application featuring four study modes: flashcards, multiple-choice quizzes, typing practice, and matching. Supports English–French, English–German, and English–Japanese decks, custom deck creation, JSON/CSV import and export, session statistics, with a React frontend and FastAPI backend. | Python, FastAPI, Pydantic, React, TypeScript, Vite, Vitest, Playwright | [Live Site](https://vocab-deck.vercel.app/) | [GitHub](https://github.com/PIYUSH-NEXTGEN/Vocab-Deck) |
+| **Outdoor Nudge** | A local-first outdoor activity assistant that combines a user's mood, live weather, and a locally running LLM to generate one safe, practical 20-minute outdoor task. Includes weather-aware suggestions, safety validation, multiple local model selection and comparison, task history, and adjustable difficulty. Runs privately with Ollama and requires no paid APIs or accounts. | Python, FastAPI, Pydantic, Ollama, Open-Meteo, HTML, CSS, JavaScript, Playwright | Local App | [GitHub](https://github.com/PIYUSH-NEXTGEN/Outdoor-Nudge) |
 ---
 
 
