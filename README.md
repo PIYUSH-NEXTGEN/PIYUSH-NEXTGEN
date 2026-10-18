@@ -5,17 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush-nextgen&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true&base=0" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/piyush-nextgen?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/piyush-nextgen?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-
----
-
-### 🍀 Currently Doing
-
-* **Machine Learning**
-* **Backend Development in Golang**
-* **Data Structures & Algorithms**
 
 ---
 
@@ -29,7 +19,7 @@
 | **Databases** | MySQL, PostgreSQL, SQL alchemy |
 | **Computer Science Fundamentals** | OOP, Data Structures & Algorithms |
 | **Deployment** | Render, Vercel |
-| **Machine learning** | Supervised, Unsupervised, Data analysis |
+| **Machine learning** | Supervised, Unsupervised |
 ---
 
 
