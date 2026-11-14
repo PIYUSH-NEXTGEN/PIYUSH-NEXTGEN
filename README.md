@@ -9,19 +9,25 @@
 
 ---
 
-### ⚡ Tech Stack i work with
+
+
+### ⚡ Tech Stack I work with
 
 | Category | Tools / Technologies |
 |----------|-----------------------|
-| **Programming Languages** |  Python , Golang, SQL, JS/TS, C++ |
-| **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow |
-| **Backend** | FastAPI, Pydantic |
-| **Databases & ORM** | MySQL, PostgreSQL, SQL alchemy, SQL lite |
-| **Computer Science Fundamentals** | OOP, Data Structures & Algorithms, DBMS |
-| **Deployment** | Render, Vercel |
-| **Machine learning** | Supervised, Unsupervised |
+| **Programming Languages** | Python, Go, JavaScript, TypeScript, SQL |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS |
+| **Backend** | FastAPI, Node.js, Fastify, Express, Pydantic |
+| **Databases & Data Storage** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy, Drizzle ORM |
+| **Data Science & Scientific Computing** | NumPy, Pandas, Matplotlib, Seaborn, SciPy, Astropy, Pillow |
+| **AI / ML** | scikit-learn, TensorFlow, LLM integrations, Supervised Learning, Unsupervised Learning |
+| **DevOps & Deployment** | Docker, GitHub Actions, Render, Vercel |
+| **Computer Science Fundamentals** | OOP, Data Structures & Algorithms, DBMS, System Design basics |
+
 ---
 
+### 🌐 Connect with me
+---
 
 
 
