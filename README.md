@@ -19,7 +19,7 @@
 | **Frontend** | React, Next.js, Vite, Tailwind CSS |
 | **Backend** | FastAPI, Node.js, Fastify, Express, Pydantic |
 | **Databases & Data Storage** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy, Drizzle ORM |
-| **Data Science & Scientific Computing** | NumPy, Pandas, Matplotlib, Seaborn, SciPy, Astropy, Pillow |
+| **Data Science & Scientific Computing** | NumPy, Pandas, Matplotlib, Seaborn, Pillow |
 | **AI / ML** | scikit-learn, TensorFlow, LLM integrations, Supervised Learning, Unsupervised Learning |
 | **DevOps & Deployment** | Docker, GitHub Actions, Render, Vercel |
 | **Computer Science Fundamentals** | OOP, Data Structures & Algorithms, DBMS, System Design basics |
