@@ -27,11 +27,6 @@
 ---
 
 ### 🌐 Connect with me
----
-
-
-
-### 🌐 Connect with me
 
 
 <p align="left">
