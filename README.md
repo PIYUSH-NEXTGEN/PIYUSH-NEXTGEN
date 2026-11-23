@@ -17,11 +17,11 @@
 |----------|-----------------------|
 | **Programming Languages** | Python, Go, JavaScript, TypeScript, SQL |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS |
-| **Backend** | FastAPI, Node.js, Fastify, Express, Pydantic |
+| **Backend** | FastAPI, Node.js, Fastify, Pydantic |
 | **Databases & Data Storage** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy, Drizzle ORM |
 | **Data Science & Scientific Computing** | NumPy, Pandas, Matplotlib, Seaborn, Pillow |
 | **AI / ML** | scikit-learn, TensorFlow, LLM integrations, Supervised Learning, Unsupervised Learning |
-| **DevOps & Deployment** | Docker, GitHub Actions, Render, Vercel |
+| **DevOps & Deployment** | Docker, GitHub Actions, Render, Vercel, Neon DB, Supabase, Cloudfare|
 | **Computer Science Fundamentals** | OOP, Data Structures & Algorithms, DBMS, System Design basics |
 
 ---
