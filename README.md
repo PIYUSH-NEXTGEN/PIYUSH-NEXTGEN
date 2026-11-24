@@ -18,9 +18,9 @@
 | **Programming Languages** | Python, Go, JavaScript, TypeScript, SQL |
 | **Frontend** | React,Vite, Tailwind CSS |
 | **Backend** | FastAPI, Node.js, Fastify, Pydantic |
-| **Databases & Data Storage** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy |
-| **AI / ML** | scikit-learn, TensorFlow, Supervised & Unsupervised Learning, NumPy, Pandas, Matplotlib, Seaborn |
-| **DevOps & Deployment** | GitHub Actions, Render, Vercel, Neon DB, Supabase, Cloudfare|
+| **Databases & ORM** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy |
+| **AI / ML** | Scikit-learn, TensorFlow, Supervised & Unsupervised Learning, NumPy, Pandas, Matplotlib, Seaborn |
+| **DevOps & Deployment** | Render, Vercel, Neon DB, Supabase, Cloudfare|
 
 ---
 
