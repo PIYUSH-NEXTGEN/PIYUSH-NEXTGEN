@@ -19,8 +19,7 @@
 | **Frontend** | React,Vite, Tailwind CSS |
 | **Backend** | FastAPI, Node.js, Fastify, Pydantic |
 | **Databases & Data Storage** | PostgreSQL, MySQL, SQLite, Redis, SQLAlchemy |
-| **Data Science & Scientific Computing** | NumPy, Pandas, Matplotlib, Seaborn |
-| **AI / ML** | scikit-learn, TensorFlow, Supervised Learning, Unsupervised Learning |
+| **AI / ML** | scikit-learn, TensorFlow, Supervised & Unsupervised Learning, NumPy, Pandas, Matplotlib, Seaborn |
 | **DevOps & Deployment** | GitHub Actions, Render, Vercel, Neon DB, Supabase, Cloudfare|
 
 ---
